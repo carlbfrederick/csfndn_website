@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
   description = "The last theme you'll ever need. Maybe."
-  facebook = ""
+  facebook = "https://www.facebook.com/coachsauerfoundation/"
   twitter = "https://twitter.com/coachsauerfndn"
   instagram = "https://www.instagram.com/coachsauerfoundation/"
   youtube = ""
