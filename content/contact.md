@@ -6,7 +6,10 @@ menu:
   main: {}
 
 ---
-Thank you for your interest in the Coach Sauer Foundation. Please fill out the form below to send us a message.  Thanks!
+Thank you for your interest in the Coach Sauer Foundation. Please fill out the 
+form below to send us a message or reach out to us on Facebook, 
+[Twitter](https://twitter.com/coachsauerfndn) or 
+[Instagram](https://www.instagram.com/coachsauerfoundation/).  Thanks!
 
 {{< form-contact action="https://formspree.io/info@coachsauerfoundation.com" >}}
 
