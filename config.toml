@@ -1,4 +1,4 @@
-#baseURL = "http://www.coachsauerfoundation.com/"
+#baseURL = "http://www.coachsauerfoundation.org/"
 baseURL = "https://usher-crab-54461.netlify.com/"
 languageCode = "en-us"
 title = "The Coach Sauer Foundation"
@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
   description = "The last theme you'll ever need. Maybe."
-  facebook = "https://www.facebook.com/coachsauerfoundation/"
+#  facebook = "https://www.facebook.com/coachsauerfoundation/"
   twitter = "https://twitter.com/coachsauerfndn"
   instagram = "https://www.instagram.com/coachsauerfoundation/"
   youtube = ""
