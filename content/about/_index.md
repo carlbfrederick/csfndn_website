@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-description: "We strive to continue Jeff's passion for using the game of hockey to help others. The Fondation is dedicated to providing more opportunities to play the game of hockey and support programs, both able-bodied and disabled, that emphasize the development of youth hockey players, coaches, and officials."
+description: "We strive to continue Jeff's passion for using the game of hockey to help others. The Foundation is dedicated to providing more opportunities to play the game of hockey and support programs, both able-bodied and disabled, that emphasize the development of youth hockey players, coaches, and officials."
 ---
 
 
