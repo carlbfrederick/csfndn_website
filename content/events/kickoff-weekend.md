@@ -10,7 +10,7 @@ Wisconsin men's hockey team and the 2018 USA men's Olympic Hockey team.
 Guests will include the **2018 US Paralympic Sled Hockey team and coaching staff** who 
 will be representing the US at the 2018 Paralympics Winter Games in South Korea.
 
-Click here for details
+Click event name for more details
 <!--more-->
 
 #### Where
