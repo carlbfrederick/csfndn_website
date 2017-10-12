@@ -50,6 +50,8 @@ Blackhawk Country Club - Madison, WI
   <tr>
 </table>
 
+Please [contact us](/contact/) for ticket information.
+
 ---
 <!--
 *This is a fundraising event to benefit The Coach Sauer Foundation, a 501\(c)3 non-profit organization. 
