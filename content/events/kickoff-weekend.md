@@ -19,7 +19,7 @@ Blackhawk Country Club - Madison, WI
 
 <table>
   <tr>
-  <th colspan="2"> When  </th>
+  <th colspan="2"> Thursday, November 2  </th>
   </tr>
   <tr>
      <td> 6 pm  </td>
