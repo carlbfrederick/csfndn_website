@@ -1,4 +1,4 @@
-baseURL = "http://www.coachsauerfoundation.org/"
+baseURL = "https://www.coachsauerfoundation.org/"
 #baseURL = "https://usher-crab-54461.netlify.com/"
 languageCode = "en-us"
 title = "The Coach Sauer Foundation"
