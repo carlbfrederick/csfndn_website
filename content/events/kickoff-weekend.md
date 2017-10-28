@@ -7,7 +7,7 @@ draft: false
 
 <em>Thank you all for the overwhelming response. We do not have any more tickets left 
 for the Banquet. <br><br> If you weren't able to get a ticket we hope to see you at the
-sled hockey games November 3rd and 4th. </em>
+[sled hockey games November 3rd and 4th.](/events/sled-hockey-exhibition/)  </em>
 
 <hr>
 
