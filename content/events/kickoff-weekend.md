@@ -3,6 +3,13 @@ title: "Kickoff Weekend & Silent Auction"
 date: 2017-10-04T07:51:10-05:00
 draft: false
 ---
+<h1><em>SOLD OUT</em></h1>
+
+<em>Thank you all for the overwhelming response. We do not have any more tickets left 
+for the Banquet. <br><br> If you weren't able to get a ticket we hope to see you at the
+sled hockey games November 3rd and 4th. </em>
+
+<hr>
 
 Banquet will feature keynote speaker **Tony Granato**, head coach of the University of 
 Wisconsin men's hockey team and the 2018 USA men's Olympic Hockey team.
