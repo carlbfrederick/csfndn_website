@@ -25,4 +25,4 @@ Thank you very much for supporting the Coach Sauer Foundation. <br><br>
 
 > The Coach Sauer Foundation <br>
   P.O. Box 620435 <br>
-  Middleton, WI 53565-0435
+  Middleton, WI 53562-0435
