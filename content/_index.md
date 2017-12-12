@@ -3,7 +3,7 @@ title: Take the good from he who is gone and pass it along.*
 description: " " 
 ---
 
-Thanks to all for a successful Kickoff weekend! 
+We are proud to [anounce the the Jeff Sauer Award](post/jeffsauerawardannouncement/) that recognizes good high school hockey players being great people.
 
 [Click here](http://coachsauer.gesture.com) to make a donation to help The 
 Coach Sauer Foundation continue Jeff's passion for using the game of hockey 
