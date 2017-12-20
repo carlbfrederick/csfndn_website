@@ -11,3 +11,5 @@ Coach Sauer Foundation continue Jeff's passion for using the game of hockey
 to help others.
 
 [Learn more about who Jeff Sauer was and why we want to continue his legacy](about/js_bio/)
+
+<a class="twitter-timeline" href="https://twitter.com/coachsauerfndn?ref_src=twsrc%5Etfw">Tweets by coachsauerfndn</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
