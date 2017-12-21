@@ -17,6 +17,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  env = "production"
   description = "Supporting opportunities and programs that emphasize the development of youth hockey players of all abilities, coaches and officials."
   facebook = "https://www.facebook.com/coachsauerfoundation/"
   twitter = "https://twitter.com/coachsauerfndn"
