@@ -14,6 +14,8 @@ The Coach Sauer Foundation will sponsor the 2018 Regional Disabled Hockey Festiv
 The purpose of the Scholarship Fund is to grow the game of hockey by providing financial help to players through non-profit hockey clubs and arenas. We hope to give families with financial hardship and opportunity for their young players with an opportunity to learn about the game of hockey. A committee will vote to disperse a determined amount each year to a number of applicants requesting financial assistance through their local non-profit hockey organization.
 
 ### Jeff Sauer Award
+[Details on how to apply for the 2018 Jeff Sauer Award here](post/Jeff-Sauer-Award-Application-2018/)
+
 The Coach Sauer Foundation plans to present a proposal to the Wisconsin Hockey Coaches Association that would establish an annual award to Wisconsin high school that would be similar to the Hockey Humanitarian Award, which recognizes hockey players—male or female—who give back to their communities in the true humanitarian spirit. 
 
 ---
