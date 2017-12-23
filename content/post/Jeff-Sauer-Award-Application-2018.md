@@ -1,6 +1,7 @@
 ---
 title: "2018 Jeff Sauer Award Application is Online!"
 date: 2017-12-22T18:56:28-06:00
+description: "2018 Jeff Sauer Award Application Instructions"
 draft: false
 ---
 
