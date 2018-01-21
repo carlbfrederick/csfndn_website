@@ -7,7 +7,7 @@ draft: false
 
 Welcome Wisconsin high school hockey players and coaches. 
 
-The application form for the 2018 Jeff Sauer Award is [now available online here](https://goo.gl/forms/jKxYBDjiCEzOsGn63). Application forms are ***due by Midnight on January 25, 2018.*** 
+The application form for the 2018 Jeff Sauer Award is [now available online here](https://goo.gl/forms/jKxYBDjiCEzOsGn63). Application forms are ***due by Midnight on January 28, 2018.*** 
 
 ### Eligibility Requirements
 1.	The award is available to both male and female nominees who live and play high school hockey in Wisconsin.
