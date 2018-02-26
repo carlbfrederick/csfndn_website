@@ -3,6 +3,8 @@ title: "News/Media"
 description: ""
 ---
 
+- **February 25, 2018**: [Coach Sauer's sled hockey legacy](http://www.nbcolympics.com/video/coach-sauers-sled-hockey-legacy/) played during the 2018 PyeongChang Olympic coverage on NBC.
+
 - **December 19, 2017**: [American Hockey Is at Home in Badger Country](https://www.nytimes.com/2017/12/19/sports/hockey/united-states-olympics-wisconsin.html) by Ben Shpigel in the *New York Times*
 
 - **December 12, 2017**: [Prep hockey: The Jeff Sauer Award will recognize community service in high school hockey](http://host.madison.com/wsj/sports/high-school/hockey/prep-hockey-the-jeff-sauer-award-will-recognize-community-service/article_9d73c8e0-e8c9-593b-8b97-13ba5eae3e09.htm) in the *Wisconsin State Journal*
