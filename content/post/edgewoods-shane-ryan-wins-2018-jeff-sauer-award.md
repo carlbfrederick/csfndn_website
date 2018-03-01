@@ -2,6 +2,7 @@
 title: "Edgewoods Shane Ryan Wins 2018 Jeff Sauer Award"
 date: 2018-03-01T06:38:27-06:00
 draft: false
+thumbnail: "/images/2018_JSA_Recipient.JPG"
 ---
 
 Congratulations to **Shane Ryan** from **Edgewood High School** for receiving the 2018 Jeff Sauer Award!
