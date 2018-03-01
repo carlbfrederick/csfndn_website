@@ -6,6 +6,8 @@ draft: false
 
 Congratulations to **Shane Ryan** from **Edgewood High School** for receiving the 2018 Jeff Sauer Award!
 
+![2018 Jeff Sauer Award Winner Shane Ryan](/images/2018_JSA_Recipient.JPG)
+
 Thank you to the rest of the deserving finalists. It is heartening to hear about all the wonderful 
 things that Wisconsin's high school hockey players are doing.
 
