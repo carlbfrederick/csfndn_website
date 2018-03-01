@@ -6,8 +6,9 @@ description: " "
 <article class="cf">
     <div class="fl w-100 w-50-ns tl">
 
-The application form for the 2018 Jeff Sauer Award is closed.  Thanks to all of the amazing applicants! Stay tuned for the announcement of the winner.
-<br> <br>
+<a href="post/edgewoods-shane-ryan-wins-2018-jeff-sauer-award">Congratulations to <strong>Shane Ryan</strong> from <strong>Edgewood High School</strong> for receiving the 2018 Jeff Sauer Award!</a> 
+
+<br> <br> 
 <a href="http://coachsauer.gesture.com">Click here to make a donation to help The 
 Coach Sauer Foundation</a> continue Jeff's passion for using the game of hockey 
 to help others.

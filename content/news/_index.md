@@ -3,6 +3,10 @@ title: "News/Media"
 description: ""
 ---
 
+- **March 1, 2018**: Shane Ryan from Edgewood High School wins the 2018 Jeff Sauer Award.
+  - [Edgewood goaltender Shane Ryan is the first recipient of the Jeff Sauer Award](http://host.madison.com/wsj/sports/high-school/hockey/edgewood-goaltender-shane-ryan-is-the-first-recipient-of-the/article_0039adc4-4910-5563-98ff-58c5d387154c.html) in the *Wisconsin State Journal*.
+  - [Edgewood's Shane Ryan named Jeff Sauer Award winner](https://www.channel3000.com/sports/edgewoods-shane-ryan-named-jeff-sauer-award-winner/709201521) by Jay Wilson at Channel3000.com
+
 - **February 25, 2018**: [Coach Sauer's sled hockey legacy](http://www.nbcolympics.com/video/coach-sauers-sled-hockey-legacy/) played during the 2018 PyeongChang Olympic coverage on NBC.
 
 - **December 19, 2017**: [American Hockey Is at Home in Badger Country](https://www.nytimes.com/2017/12/19/sports/hockey/united-states-olympics-wisconsin.html) by Ben Shpigel in the *New York Times*
