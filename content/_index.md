@@ -7,7 +7,7 @@ description: " "
     <div class="fl w-100 w-50-ns tl">
 
 <a href="events/babes-6th-annual-golf-outing">Come join us for Babes' 6th annual golf outing.</a> A portion 
-of the proceeds will benefit the Jeff Sauer Foundation.
+of the proceeds will benefit the Coach Sauer Foundation.
 
 <br> <br> 
 <a href="http://coachsauer.gesture.com">Click here to make a donation to help The 
