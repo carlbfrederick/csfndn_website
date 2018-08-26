@@ -6,7 +6,8 @@ description: " "
 <article class="cf">
     <div class="fl w-100 w-50-ns tl">
 
-<a href="post/edgewoods-shane-ryan-wins-2018-jeff-sauer-award">Congratulations to <strong>Shane Ryan</strong> from <strong>Edgewood High School</strong> for receiving the 2018 Jeff Sauer Award!</a> 
+<a href="events/babes-6th-annual-golf-outing">Come join us for Babes' 6th annual golf outing.</a> A portion 
+of the proceeds will benefit the Jeff Sauer Foundation.
 
 <br> <br> 
 <a href="http://coachsauer.gesture.com">Click here to make a donation to help The 
