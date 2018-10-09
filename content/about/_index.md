@@ -23,7 +23,7 @@ Modeled after the collegiate Hockey Humanitarian Award, recognizes Wisconsin hig
 # Donations
 
 Thank you very much for supporting the Coach Sauer Foundation. <br><br>
-*To donate, [click here to make an Online Donation](https://coachsauer.gesture.com) or send a check payable to:*
+*To donate, [click here to make an Online Donation](https://2018dinner.givesmart.com) or send a check payable to:*
 
 > The Coach Sauer Foundation <br>
   P.O. Box 620435 <br>

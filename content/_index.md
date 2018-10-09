@@ -6,11 +6,10 @@ description: " "
 <article class="cf">
     <div class="fl w-100 w-50-ns tl">
 
-<a href="events/babes-6th-annual-golf-outing">Come join us for Babes' 6th annual golf outing.</a> A portion 
-of the proceeds will benefit the Coach Sauer Foundation.
+<a href="post/2018-annual-banquet-and-silent-auction">Come join us for our annual banquet and silent auction.</a> Food, silent auction, Paralympic gold medalists and special guest Mike Leckrone!
 
 <br> <br> 
-<a href="http://coachsauer.gesture.com">Click here to make a donation to help The 
+<a href="http://2018dinner.givesmart.com">Click here to make a donation to help The 
 Coach Sauer Foundation</a> continue Jeff's passion for using the game of hockey 
 to help others.
 <br><br>
