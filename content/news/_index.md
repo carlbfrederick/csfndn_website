@@ -3,6 +3,9 @@ title: "News/Media"
 description: ""
 ---
 
+- **October 26, 2018**:  [U.S. sled hockey players return to Madison for training camp, Coach Sauer Foundation 
+benefit](https://madison.com/wsj/sports/hockey/u-s-sled-hockey-players-return-to-madison-for-training/article_848abd6b-14d4-5cb0-87a9-a7b34ca8e49e.html) by Todd Milewski on Madison.com
+
 - **March 1, 2018**: Shane Ryan from Edgewood High School wins the 2018 Jeff Sauer Award.
   - [Edgewood goaltender Shane Ryan is the first recipient of the Jeff Sauer Award](http://host.madison.com/wsj/sports/high-school/hockey/edgewood-goaltender-shane-ryan-is-the-first-recipient-of-the/article_0039adc4-4910-5563-98ff-58c5d387154c.html) in the *Wisconsin State Journal*.
   - [Edgewood's Shane Ryan named Jeff Sauer Award winner](https://www.channel3000.com/sports/edgewoods-shane-ryan-named-jeff-sauer-award-winner/709201521) by Jay Wilson at Channel3000.com
