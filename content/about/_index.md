@@ -18,6 +18,12 @@ The purpose of the Scholarship Fund is to grow the game of hockey by providing f
 
 Modeled after the collegiate Hockey Humanitarian Award, recognizes Wisconsin high school hockey players—male or female—who give back to their communities in the true humanitarian spirit. It is awarded annually at the Wisconsin Hockey Coaches Association State Tournament Awards Banquet.
 
+List of winners of the Jeff Sauer Award:
+
+Year |   | Winner (Position) |   | High School Team
+:----|:--|:------------------|:--|:------------------------------
+2018 |   | Shane Ryan (G)    |   | Edgewood High School (Madison)
+
 ---
 
 # Donations

@@ -3,6 +3,8 @@ title: "News/Media"
 description: ""
 ---
 
+- **January 6, 2019**: [Press Release for 2019 Jeff Sauer Award](2019-jeff-sauer-award-press-release/)
+
 - **October 26, 2018**:  [U.S. sled hockey players return to Madison for training camp, Coach Sauer Foundation 
 benefit](https://madison.com/wsj/sports/hockey/u-s-sled-hockey-players-return-to-madison-for-training/article_848abd6b-14d4-5cb0-87a9-a7b34ca8e49e.html) by Todd Milewski on Madison.com
 

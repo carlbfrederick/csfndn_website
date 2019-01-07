@@ -6,9 +6,11 @@ description: " "
 <article class="cf">
     <div class="fl w-100 w-50-ns tl">
 
-<a href="post/2018-annual-banquet-and-silent-auction">Come join us for our annual banquet and silent auction.</a> Food, silent auction, Paralympic gold medalists and special guest Mike Leckrone!
+<a href = "post/jeff-sauer-award-application-2019/">Nominations for the 2019 Jeff Sauer Award are now open.</a> 
+Applications are due <strong>January 31, 2019</strong>. <br><br> 
+Read a press release about this year's award <a href = "news/2019-jeff-sauer-award-press-release/"> here.</a>
 
-<br> <br> 
+<br><br>
 <a href="http://2018dinner.givesmart.com">Click here to make a donation to help The 
 Coach Sauer Foundation</a> continue Jeff's passion for using the game of hockey 
 to help others.
