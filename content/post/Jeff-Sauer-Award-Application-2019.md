@@ -10,7 +10,7 @@ Welcome Wisconsin high school hockey players and coaches.
 The Jeff Sauer Award is determined from a candidate’s level of community service, 
 volunteerism, good citizenship and academic performance. 
 
-[Click here to go to apply/nominate your player](https://goo.gl/forms/5Jr9gfkOaE0uVTXy1). 
+[Click here to apply/nominate your player](https://goo.gl/forms/5Jr9gfkOaE0uVTXy1). 
 
 Application forms are ***due by Midnight on January 31, 2019.*** 
 
