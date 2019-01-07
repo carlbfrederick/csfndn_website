@@ -4,11 +4,11 @@ description: " "
 ---
 
 <article class="cf">
-    <div class="fl w-100 w-50-ns tl">
+    <div class="fl w-120 w-50-ns tl">
 
 <h2> 2019 Jeff Sauer Award </h2>
 
-<strong><a href = "https://goo.gl/forms/5Jr9gfkOaE0uVTXy1"> Make you nominations here. </a> </strong>  <br>
+<h3><a href = "https://goo.gl/forms/5Jr9gfkOaE0uVTXy1"> Apply/Nominate your player here. </a> </h3>  <br>
 Applications are due <strong>January 31, 2019</strong>. <br><br> 
 Read a press release about this year's award <a href = "news/2019-jeff-sauer-award-press-release/"> here.</a>
 
