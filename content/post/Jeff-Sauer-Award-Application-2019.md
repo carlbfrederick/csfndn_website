@@ -1,5 +1,5 @@
 ---
-ttitle: "2019 Jeff Sauer Award Application is Online!"
+title: "2019 Jeff Sauer Award Application is Online!"
 date: 2019-01-06T18:28:40-06:00
 description: "2019 Jeff Sauer Award Application Instructions"
 draft: false
@@ -10,7 +10,9 @@ Welcome Wisconsin high school hockey players and coaches.
 The Jeff Sauer Award is determined from a candidate’s level of community service, 
 volunteerism, good citizenship and academic performance. 
 
-The application form for the 2019 Jeff Sauer Award is [now available online here](https://goo.gl/forms/5Jr9gfkOaE0uVTXy1). Application forms are ***due by Midnight on January 31, 2019.*** 
+[Click here to go to apply/nominate your player](https://goo.gl/forms/5Jr9gfkOaE0uVTXy1). 
+
+Application forms are ***due by Midnight on January 31, 2019.*** 
 
 ### Eligibility Requirements
 1.	The award is available to both male and female nominees who live and play high school hockey in Wisconsin.
