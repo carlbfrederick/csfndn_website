@@ -8,9 +8,10 @@ description: " "
 
 <h2> 2019 Jeff Sauer Award </h2>
 
-<h3><a href = "https://goo.gl/forms/5Jr9gfkOaE0uVTXy1"> Apply/Nominate your player here. </a> </h3>  <br>
-Applications are due <strong>January 31, 2019</strong>. <br><br> 
-Read a press release about this year's award <a href = "news/2019-jeff-sauer-award-press-release/"> here.</a>
+Applications for the 2019 Jeff Sauer award have closed. 
+<a href = "news/2019-jeff-sauer-award-nominee-announcement/">  
+We have announced this year's nominees. </a> 
+The winner will be announced February 27, 2019 at the WIAA state hockey tournament.
 
 <br><br>
 <a href="http://2018dinner.givesmart.com">Click here to make a donation to help The 
