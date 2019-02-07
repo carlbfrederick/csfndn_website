@@ -1,7 +1,7 @@
 ---
 title: "Jeff Sauer Award"
 date: 2018-03-01T06:22:29-06:00
-draft: true
+draft: false
 ---
 
 Modeled after the collegiate Hockey Humanitarian Award, recognizes Wisconsin high school 
