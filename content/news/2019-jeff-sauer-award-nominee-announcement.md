@@ -8,7 +8,7 @@ MADISON – Eight students have been nominated for the second Jeff
 Sauer Award, presented annually to recognize good high school hockey players 
 being great people.
 
-The nominees include five boys and three girls from throughout Wisconsin.
+The nominees include four boys and four girls from throughout Wisconsin.
 
 They are Katie Benson, a senior from Ashwaubenon and the Bay Area Ice Bears; 
 Parker Esswein, a senior from Wauwatosa East and the Brookfield Stars; Dayne 
