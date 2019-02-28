@@ -6,14 +6,6 @@ description: " "
 <article class="cf">
     <div class="fl w-120 w-50-ns tl">
 
-<h2> 2019 Jeff Sauer Award </h2>
-
-Applications for the 2019 Jeff Sauer award have closed. 
-<a href = "news/2019-jeff-sauer-award-nominee-announcement/">  
-We have announced this year's nominees. </a> 
-The winner will be announced February 27, 2019 at the WIAA state hockey tournament.
-
-<br><br>
 <a href="http://2018dinner.givesmart.com">Click here to make a donation to help The 
 Coach Sauer Foundation</a> continue Jeff's passion for using the game of hockey 
 to help others.

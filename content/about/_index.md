@@ -20,9 +20,10 @@ Modeled after the collegiate Hockey Humanitarian Award, recognizes Wisconsin hig
 
 List of winners of the Jeff Sauer Award:
 
-Year |   | Winner (Position) |   | High School Team
-:----|:--|:------------------|:--|:------------------------------
-2018 |   | Shane Ryan (G)    |   | Edgewood High School (Madison)
+Year |   | Winner (Position)  |   | High School Team
+:----|:--|:-------------------|:--|:---------------------------------------------
+2018 |   | Shane Ryan (G)     |   | Edgewood High School (Madison)
+2019 |   | Parker Esswein (F) |   | Wauwatosa East High School/Brookfield Stars
 
 ---
 
