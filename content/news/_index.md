@@ -3,6 +3,8 @@ title: "News/Media"
 description: ""
 ---
 
+- **February 27, 2019**: [Parker Esswein receives Jeff Sauer Award](https://madison.com/wsj/sports/high-school/hockey/parker-esswein-receives-jeff-sauer-award/article_b47791b5-4268-5219-8575-750b4cda7501.html)
+
 - **February 6, 2019**: [Three area hockey players among eight nominated for Jeff Sauer Award](https://madison.com/wsj/sports/high-school/hockey/three-area-hockey-players-among-eight-nominated-for-jeff-sauer/article_9857c720-5450-5d29-bab2-daa5777cc911.html)
 
 - **January 6, 2019**: [Press Release for 2019 Jeff Sauer Award](2019-jeff-sauer-award-press-release/)
