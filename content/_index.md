@@ -6,10 +6,16 @@ description: " "
 <article class="cf">
     <div class="fl w-120 w-50-ns tl">
 
+<a href="post/2019-2020-opportunity-grant-program">2019-2020 Opportunity Grant Applications are open!</a> Follow the link to see if you are eligible and download the forms today. Grants are due <strong>September 15, 2019</strong>.
+
+<br><br>
+
 <a href="http://2018dinner.givesmart.com">Click here to make a donation to help The 
 Coach Sauer Foundation</a> continue Jeff's passion for using the game of hockey 
 to help others.
+
 <br><br>
+
 <a href="about/js_bio/">Learn more about who Jeff Sauer was and why we want to continue his legacy.</a>
 
    </div>
