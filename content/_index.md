@@ -6,7 +6,7 @@ description: " "
 <article class="cf">
     <div class="fl w-120 w-50-ns tl">
 
-<a href="post/2019-2020-opportunity-grant-program">2019-2020 Opportunity Grant Applications are open!</a> Follow the link to see if you are eligible and download the forms today. Grants are due <strong>September 15, 2019</strong>.
+<strong> 2019-2020 Opportunity Grant Applications are now closed.</strong> Thanks to all the applicants.
 
 <br><br>
 

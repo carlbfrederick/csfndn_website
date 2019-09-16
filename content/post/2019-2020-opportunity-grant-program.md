@@ -12,7 +12,5 @@ to players and organizations to expand accessibility and provide new
 experiences.  The Foundation seeks to support both able-bodied and disabled 
 athletes, coaches, and officials from across the state or country.
 
-**Applications are due September 15, 2019.** 
-
-Download the application today [pdf version](/docs/2019_Grant_Application.pdf) or 
-[docx version](/docs/2019_Grant_Application.docx).
+**Applications were due September 15, 2019.** Check back next year for the 
+information about the next round of grants.
