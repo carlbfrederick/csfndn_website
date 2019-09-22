@@ -6,7 +6,7 @@ description: " "
 <article class="cf">
     <div class="fl w-120 w-50-ns tl">
 
-Fall fundraiser save the date November 14, 2019: Celebrating the 40th Anniversary of the Miracle on Ice.
+<a href="events/2019-banquet-save-the-date/">Fall fundraiser save the date November 14, 2019: Celebrating the 40th Anniversary of the Miracle on Ice.</a>
 
 <br><br>
 
