@@ -6,7 +6,7 @@ description: " "
 <article class="cf">
     <div class="fl w-120 w-50-ns tl">
 
-<strong> 2019-2020 Opportunity Grant Applications are now closed.</strong> Thanks to all the applicants.
+Fall fundraiser save the date November 14, 2019: Celebrating the 40th Anniversary of the Miracle on Ice.
 
 <br><br>
 
