@@ -18,7 +18,7 @@ The Foundation also awarded a grant to **Coulee Region Sled Hockey in LaCrosse**
 expand opportunities for older players.
 
 Previously the Foundation announced it will provide financial support for the 
-Polar Cats’ “Hockey for Life” program in Madison and will underwrite the 
+Polar Caps’ “Hockey for Life” program in Madison and will underwrite the 
 Regional Disabled Hockey Festival for the third year. The Festival will be a 
 season-opening event for the first time and move from its traditional March 
 dates to the fall and take place from Oct. 18-20 at Madison Ice Arena. The 
