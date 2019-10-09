@@ -6,11 +6,11 @@ description: " "
 <article class="cf">
     <div class="fl w-120 w-50-ns tl">
 
-<a href="events/2019-banquet-save-the-date/">Fall fundraiser save the date November 14, 2019: Celebrating the 40th Anniversary of the Miracle on Ice.</a>
+<a href="https://csfmiracle.givesmart.com">Tickets available for our Fall fundraiser! November 14, 2019: Celebrating the 40th Anniversary of the Miracle on Ice.</a>
 
 <br><br>
 
-<a href="http://2018dinner.givesmart.com">Click here to make a donation to help The 
+<a href="http://csfmiracle.givesmart.com">Click here to make a donation to help The 
 Coach Sauer Foundation</a> continue Jeff's passion for using the game of hockey 
 to help others.
 
