@@ -6,7 +6,7 @@ description: " "
 <article class="cf">
     <div class="fl w-120 w-50-ns tl">
 
-<a href="https://csfmiracle.givesmart.com">Tickets available for our Fall fundraiser! November 14, 2019: Celebrating the 40th Anniversary of the Miracle on Ice.</a>
+<a href="https://forms.gle/9dpXWa7QvKufSS8R6">Applications for the 2020 Jeff Sauer Award are open!</a>
 
 <br><br>
 
