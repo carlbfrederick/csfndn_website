@@ -1,5 +1,5 @@
 ---
-title: "2019 Jeff Sauer Award Application is Online!"
+title: "2020 Jeff Sauer Award Application is Online!"
 date: 2020-01-07T17:28:40-06:00
 description: "2020 Jeff Sauer Award Application Instructions"
 draft: false
