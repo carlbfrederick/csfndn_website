@@ -6,7 +6,7 @@ description: " "
 <article class="cf">
     <div class="fl w-120 w-50-ns tl">
 
-<a href="https://forms.gle/9dpXWa7QvKufSS8R6">Applications for the 2020 Jeff Sauer Award are open!</a>
+<a href="/post/2020-grant-announcement/">Applications for the 2020-2021 Opportunity Grants are open!</a>
 
 <br><br>
 
