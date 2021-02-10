@@ -6,10 +6,6 @@ description: " "
 <article class="cf">
     <div class="fl w-120 w-50-ns tl">
 
-<a href="/post/Jeff-Sauer-Award-Application-2021/">Applications for the 2021 Jeff Sauer Humanitarian are open!</a>
-
-<br><br>
-
 <a href="http://csfmiracle.givesmart.com">Click here to make a donation to help The 
 Coach Sauer Foundation</a> continue Jeff's passion for using the game of hockey 
 to help others.
