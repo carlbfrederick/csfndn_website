@@ -1,5 +1,5 @@
 ---
-title: "Zoe Uihlein Wins 2020 Jeff Sauer Award"
+title: "Zoe Uihlein Wins 2021 Jeff Sauer Award"
 date: 2021-02-19T19:00:00-06:00
 draft: false
 ---
