@@ -4,7 +4,7 @@ date: 2021-02-19T19:00:00-06:00
 draft: false
 ---
 
-MADISON – Zoe Uihlein, a senior from Milwaukee University School, has been 
+MADISON – Zoe Uihlein, a senior from University School of Milwaukee, has been 
 named the recipient of the 2021 Jeff Sauer Humanitarian Award, the Coach Sauer 
 Foundation announced.
 
