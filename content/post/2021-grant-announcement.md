@@ -4,7 +4,7 @@ date: 2021-07-31T11:45:08-05:00
 draft: false
 ---
 
-Applications are open for the 2020-2021 Opportunity Grant program!
+Applications are open for the 2021-2022 Opportunity Grant program!
 
 Download the application: 
 [in MS Word (.docx)](/docs/2021_Grant_Application.docx) or
