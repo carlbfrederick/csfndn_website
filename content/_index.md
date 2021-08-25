@@ -5,6 +5,11 @@ description: " "
 
 <article class="cf">
     <div class="fl w-120 w-50-ns tl">
+    
+<a href="https://csf21.givesmart.com">Buy tickets to our annual banquet on 
+10/7/21 at The Legend at Bergamont</a>
+
+<br><br>
 
 <a href="/post/2021-grant-announcement">Applications for the 2021-22 
 Opportunity Grants are open.</a> Due date is September 15, 2021.
