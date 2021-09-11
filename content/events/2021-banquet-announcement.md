@@ -29,11 +29,6 @@ as the television voice of the world champion Milwaukee Bucks. Paschke was the
 TV voice of the Brewers in 1987 and called Juan Nieves’ no-hitter, the only 
 no-hitter in Brewers history, and the games of Molitor’s 39-game hit streak. 
 
-The dinner will also feature the 2021 Paralympic world championship sled hockey 
-team. Jeff Sauer was the coach of the 2014 gold-medal winning U.S. team in Sochi,
-Russia. Team USA will go to Beijing, China in March as the defending champions 
-after winning in 2018 in PyeongChang, Korea.
-
 The annual fund-raising dinner will also feature a silent auction. Tickets are 
 $125 for individuals and $1,000 for a table. They are available for purchase at 
 <https://csf21.givesmart.com>.  
