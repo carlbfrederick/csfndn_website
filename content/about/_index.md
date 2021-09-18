@@ -24,6 +24,8 @@ Year |   | Winner (Position)  |   | High School Team
 :----|:--|:-------------------|:--|:---------------------------------------------
 2018 |   | Shane Ryan (G)     |   | Edgewood High School (Madison)
 2019 |   | Parker Esswein (F) |   | Wauwatosa East High School/Brookfield Stars
+2020 |   | Ava Jambor (F)     |   | Madison Metro Lynx
+2021 |   | Zoe Uihlein (D)    |   | University School of Milwaukee
 
 ---
 
