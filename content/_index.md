@@ -11,12 +11,8 @@ description: " "
 
 <br><br>
 
-<a href="/post/2021-grant-announcement">Applications for the 2021-22 
-Opportunity Grants are open.</a> Due date is September 15, 2021.
 
-<br><br>
-
-<a href="http://csfmiracle.givesmart.com">Click here to make a donation to help The 
+<a href="http://csf21.givesmart.com">Click here to make a donation to help The 
 Coach Sauer Foundation</a> continue Jeff's passion for using the game of hockey 
 to help others.
 
