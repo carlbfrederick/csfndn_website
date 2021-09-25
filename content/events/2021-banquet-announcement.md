@@ -1,8 +1,20 @@
 ---
-title: "2021 Banquet Announcement"
+title: "**Canceled**: 2021 Banquet Announcement"
 date: 2021-08-25T16:23:58-05:00
 draft: false
 ---
+
+***UPDATE: The Coach Sauer Foundation Board has decided to cancel the group's 
+annual fund-raising dinner, scheduled for Oct. 7, due to the current Covid 
+pandemic concerns and Madison/Dane County Public Health Department Covid 
+guidelines/restrictions. People who purchased tickets for the event will have 
+their checks returned or their accounts credited online.***
+
+<hline>
+
+We hope you will join us in 2022 when we celebrate the fifth anniversary of The Coach Sauer Foundation.
+
+Thank you for your understanding and continued support
 
 Baseball Hall of Famer Paul Molitor will be the featured guest at the Coach 
 Sauer Foundation dinner at Bergamont Country Club Oct. 7.

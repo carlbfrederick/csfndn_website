@@ -5,12 +5,6 @@ description: " "
 
 <article class="cf">
     <div class="fl w-120 w-50-ns tl">
-    
-<a href="https://csf21.givesmart.com">Buy tickets to our annual banquet on 
-10/7/21 at The Legend at Bergamont</a>
-
-<br><br>
-
 
 <a href="http://csf21.givesmart.com">Click here to make a donation to help The 
 Coach Sauer Foundation</a> continue Jeff's passion for using the game of hockey 
