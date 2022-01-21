@@ -5,6 +5,10 @@ description: " "
 
 <article class="cf">
     <div class="fl w-120 w-50-ns tl">
+    
+[Click here to apply/nominate your player for the 2022 Jeff Sauer Award](https://forms.gle/ijGrXKAbPrdxYAaf6). Deadline Feb 1, 2022.
+
+<br><br>
 
 <a href="http://csf21.givesmart.com">Click here to make a donation to help The 
 Coach Sauer Foundation</a> continue Jeff's passion for using the game of hockey 
