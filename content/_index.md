@@ -6,7 +6,7 @@ description: " "
 <article class="cf">
     <div class="fl w-120 w-50-ns tl">
     
-[Click here to apply/nominate your player for the 2022 Jeff Sauer Award](https://forms.gle/ijGrXKAbPrdxYAaf6). Deadline Feb 1, 2022.
+<a href = "https://forms.gle/ijGrXKAbPrdxYAaf6">Click here to apply/nominate your player for the 2022 Jeff Sauer Award</a>. Deadline Feb 1, 2022.
 
 <br><br>
 
