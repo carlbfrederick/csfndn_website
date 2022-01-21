@@ -1,7 +1,7 @@
 ---
-title: "2021 Jeff Sauer Award Application is Online!"
-date: 2021-01-13T19:29:58-06:00
-description: "2021 Jeff Sauer Award Application Instructions"
+title: "2022 Jeff Sauer Award Application is Online!"
+date: 2022-01-20T19:29:58-06:00
+description: "2022 Jeff Sauer Award Application Instructions"
 draft: false
 ---
 
