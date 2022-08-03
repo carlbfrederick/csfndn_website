@@ -7,8 +7,8 @@ draft: false
 Applications are open for the 2022-2023 Opportunity Grant program!
 
 Download the application: 
-[in MS Word (.docx)](/docs/2021_Grant_Application.docx) or
-[in Adobe PDF](/docs/2021_Grant_Application.pdf).
+[in MS Word (.docx)](/docs/2022_Grant_Application.docx) or
+[in Adobe PDF](/docs/2022_Grant_Application.pdf).
 
 The purpose of the Coach Sauer Foundation Opportunity Grant program is to grow
 the game of hockey by providing financial help to players and organizations to 
@@ -37,13 +37,13 @@ are expected to be in the $500 to $1000 range, but will be evaluated on a
 case-by-case basis.
 
 Completed applications for the 2022-2023 season must be submitted by 
-**September 15, 2021** to be considered for funding.  Applicants will be notified 
-of funding decisions by September 30, 2021.  Completed application forms can be 
+**September 15, 2022** to be considered for funding.  Applicants will be notified 
+of funding decisions by October 1, 2022.  Completed application forms can be 
 submitted by either:
 
 Download the application: 
-[in MS Word (.docx)](/docs/2021_Grant_Application.docx) or
-[in Adobe PDF](/docs/2021_Grant_Application.pdf).
+[in MS Word (.docx)](/docs/2022_Grant_Application.docx) or
+[in Adobe PDF](/docs/2022_Grant_Application.pdf).
 
 - Email: <a href=mailto:coachsauerfoundation@gmail.com>coachsauerfoundation@gmail.com</a>, or
 - U.S. Mail: The Coach Sauer Foundation <br> P.O. Box 620435 <br> Middleton, WI 53562-0435.
