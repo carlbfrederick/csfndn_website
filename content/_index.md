@@ -6,11 +6,6 @@ description: " "
 <article class="cf">
     <div class="fl w-120 w-50-ns tl">
 
-<a href="/post/2022-grant-announcement/">2022 Opportunity Grant applications are
-due <strong>September 15, 2022</strong>.</a>
-
-<br><br>
- 
 <a href="http://csf21.givesmart.com">Click here to make a donation to help The 
 Coach Sauer Foundation</a> continue Jeff's passion for using the game of hockey 
 to help others.
