@@ -4,9 +4,14 @@ description: " "
 ---
 
 <article class="cf">
+
+<div>
+<img src="images/csf2023_img.jpeg" alt="Save the Date: CSF Fundraiser on September 27, 2023>"
+</div>
+
     <div class="fl w-120 w-50-ns tl">
 
-<a href="http://csf21.givesmart.com">Click here to make a donation to help The 
+<a href="http://csf2023.givesmart.com">Click here to make a donation to help The 
 Coach Sauer Foundation</a> continue Jeff's passion for using the game of hockey 
 to help others.
 
