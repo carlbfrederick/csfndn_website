@@ -48,9 +48,14 @@ Download the application:
 [in Adobe PDF](/docs/2023_Grant_Application.pdf).
 
 If you have questions please contact:
+<br><br>
 Andrea Chaffee
+<br<
 Communications Manager
+<br>
 The Coach Sauer Foundation
-Email: andreachaffee@yahoo.com
+<br>
+<a href=mailto:andreachaffee@yahoo.com>andreachaffee@yahoo.com</a>
+<br>
 608-354-7713
      
