@@ -50,7 +50,7 @@ Download the application:
 If you have questions please contact:
 <br><br>
 Andrea Chaffee
-<br<
+<br>
 Communications Manager
 <br>
 The Coach Sauer Foundation
