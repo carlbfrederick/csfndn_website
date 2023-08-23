@@ -6,8 +6,16 @@ description: " "
 <article class="cf">
 
 <div>
-<img src="images/csf2023_img.jpeg" alt="Save the Date: CSF Fundraiser on September 27, 2023>"
+<h1>Join us September 27th for our 2023 Fundraising Event</h1>
+<br>
+<a href="http://csf23.givesmart.com"> Click here to purchase tickets or register for the online auction</a> 
+<br>
+<br>
+Guest of Honor: Mike Hastings, UW Badger Men's Hockey Coach
+<br>
 </div>
+
+<hr>
 
 <div>
 
