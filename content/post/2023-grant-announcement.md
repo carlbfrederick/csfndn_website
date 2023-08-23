@@ -7,7 +7,6 @@ draft: false
 The Coach Sauer Foundation is now accepting grant applications for the 2023-2024 hockey season. 
 
 Download the application: 
-[in MS Word (.docx)](/docs/2023_Grant_Application.docx) or
 [in Adobe PDF](/docs/2023_Grant_Application.pdf).
 
 Wisconsin Youth Hockey Organizations are encouraged to apply for a 2023-2024
@@ -44,7 +43,6 @@ forms can be submitted by either:
 - U.S. Mail: The Coach Sauer Foundation <br> P.O. Box 620435 <br> Middleton, WI 53562-0435.
 
 Download the application: 
-[in MS Word (.docx)](/docs/2023_Grant_Application.docx) or
 [in Adobe PDF](/docs/2023_Grant_Application.pdf).
 
 If you have questions please contact:
